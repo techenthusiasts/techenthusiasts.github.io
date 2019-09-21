@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+.site-header, .site-title, .footer-heading, .footer-col{
+  color: #000;
+  background-color: #c6940d;
+}
+
+.site-footer{
+    color: #000;
+    background-color: #c6940d;
+}
+
+a, a:visited{
+    color: #000;
+}
+
+a:hover{
+    color: red;
+}
+
+.img-logo{
+    float: left;
+    height: 70px;
+}

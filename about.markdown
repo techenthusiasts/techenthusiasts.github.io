@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Who are Tech Enthusiasts?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img id="thatsuspng" src="{{ site.url }}/assets/images/thatsus.png"/> We **love technolog**y, but we also believe that technology is **not neutral**. We promote **mindfulness** when it comes to embracing technology. We do praise technology, but are willing to **ponder upon** both the *benefits* and *harm* it brings to **our lives and the environment**. We believe that there is nothing wrong with progress. However, we give importance to **reusability and repurposing** of technology. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### What is this blog all about?
+
+### Why do we have to care about being mindful of technology?
+
+**Tech Enthusiastsm, *"that's Us"*** is located at **[www.TechEnthusiasts.us](https://techenthusiasts.us)**
 
 
-[jekyll-organization]: https://github.com/jekyll

@@ -38,12 +38,43 @@ a:hover{
     background-image: url(/assets/images/tiles.jpg)
 }
 
+.post-article-images-left{
+    float: left;
+    width: 120px;
+    margin: 10px;
+}
+
+
+.post-article-images-right{
+    float: right;
+    width: 120px;
+    margin: 10px;
+}
+
+.post-read-more{
+    float: center;
+    width: 200px;
+    margin: 10px;
+}
+
+
+.post-article-images-left-large{
+    float: left;
+    width: 250px;
+    margin: 10px;
+}
+
+.post-article-images-right-large{
+    float: right;
+    width: 250px;
+    margin: 10px;
+}
 .front-post-title{
     background-color: #f0de8a;
 }
 
 .front-post-title-img{
     float: right;
-    width: 150px;
+    width: 100px;
     margin-top: 5px;
 }

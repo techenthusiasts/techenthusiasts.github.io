@@ -6,7 +6,7 @@ topic: opinion
 excerpt_separator: <!--more-->
 ---
 
-It is easy for any technology enthusiast to get excited about the arrival of new and innovative products. Here are a few justifications most use to sought after and buy these products:
+<img class="post-article-images-right-large" src="{{ site.url }}/assets/images/posts_images/balanced.jpg">It is easy for any technology enthusiast to get excited about the arrival of new and innovative products. Here are a few justifications most use to sought after and buy these products:
 1. They bring value.
 2. They bring contentment.
 3. I need to replace my old <name of tech device>

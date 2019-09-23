@@ -26,7 +26,6 @@ a:hover, .page-class:hover{
 }
 
 
-
 .img-logo{
     float: left;
     height: 70px;
@@ -86,3 +85,18 @@ a:hover, .page-class:hover{
     float: right;
     width: 110px;
 }
+
+
+.subscribe-btn, .email-btn{
+    float: left;
+    height: 36px;
+}
+
+.email-link{
+    color:#f5d900;
+    background-color: #2b88b8;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+}
+

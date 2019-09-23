@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -20,7 +20,7 @@ layout: default
           </a>
         </h3>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">Written by: {{ post.author }} on {{ post.date | date: date_format }}  </span>
+        <span class="post-meta">Submitted by: {{ post.author }} on {{ post.date | date: date_format }}  </span>
         
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

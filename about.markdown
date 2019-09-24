@@ -10,6 +10,8 @@ permalink: /about/
 
 ### What is this blog all about?
 
+
+
 ### Why do we have to care about being mindful of technology?
 
 **Tech Enthusiastsm, *"that's Us"*** is located at **[www.TechEnthusiasts.us](https://techenthusiasts.us)**

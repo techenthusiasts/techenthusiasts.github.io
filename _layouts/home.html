@@ -14,13 +14,13 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        <h3>
+        <h1>
           <a class="post-link front-post-title" href="{{ post.url | relative_url }}"><img class="front-post-title-img" src="/assets/images/posts_images/readmore-normal.png">
             {{ post.title | escape }}
           </a>
-        </h3>
+        </h1>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">Submitted by: {{ post.author }} on {{ post.date | date: date_format }}  </span>
+        <span class="post-meta"><i>Submitted by: <b>{{ post.author }}</b> on <b>{{ post.date | date: date_format }} </b> </i></span>
         
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
@@ -28,6 +28,8 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+
+    <hr><br>
 
     <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">

@@ -13,7 +13,7 @@ It is easy for many technology enthusiasts to get excited about the newest itera
 2. They bring contentment.
 3. I need to replace my old device
 
-On this post, I will share my curated checklist from various sources regarding when it is O.K. to upgrade your devices. Read on! 
+<br>On this post, I will share my curated checklist from various sources regarding when it is O.K. to upgrade your devices. Read on! 
 
 <!--more-->
 

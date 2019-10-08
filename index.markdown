@@ -5,6 +5,7 @@
 layout: home
 ---
 
-<img id="favicon" src="https://techenthusiasts.us/favicon.png"/>This blog contains posts about technology. The posts can vary from issues about technology, products we are excited or hesitant about. Posts are submitted by tech enthusiasts and curated with little but necessary amount of censorship. We try to avoid any weighted propagandas. The issues does not need to be mind-altering and can be as simple as it can be.
+<img id="favicon" src="https://techenthusiasts.us/favicon.png"/>We are <span class="techenthu">Tech Enthusiasts!</span> We don't just love technology. We also exchange opinions, ideas, lessons, product reviews, etc..  Basically, writing about what we love comes natural. Join the conversation!
 
+<br>
 <hr>

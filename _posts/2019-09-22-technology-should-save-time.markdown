@@ -16,5 +16,5 @@ Do you even wonder At the end of the day, I still feel unaccomplished. My TTD (T
 ### Some Related Articles:
 
 <ul>
-<li class="related-articles"><a href="httpss://lifehacker.com/how-to-get-off-the-upgrade-treadmill-and-stop-wasting-m-5942915" target="_blank"><img class="govisit" src="{{ site.url }}/assets/images/posts_images/govisit.png">Lifehacker's "How to Get Off the Upgrade Treadmill and Stop Wasting Money on New Tech"</a></li>
-    <li class="related-articles"><a href="httpss://money.usnews.com/money/personal-finance/saving-and-budgeting/articles/2017-09-13/stop-wasting-money-on-rapidly-depreciating-gadgets"><img class="govisit" src="{{ site.url }}/assets/images/posts_images/govisit.png">U.S. News' "Stop Wasting Money on Rapidly Depreciating Gadgets"</a></li></ul>
+<li class="related-articles"><a href="https://lifehacker.com/how-to-get-off-the-upgrade-treadmill-and-stop-wasting-m-5942915" target="_blank"><img class="govisit" src="{{ site.url }}/assets/images/posts_images/govisit.png">Lifehacker's "How to Get Off the Upgrade Treadmill and Stop Wasting Money on New Tech"</a></li>
+<li class="related-articles"><a href="https://money.usnews.com/money/personal-finance/saving-and-budgeting/articles/2017-09-13/stop-wasting-money-on-rapidly-depreciating-gadgets"><img class="govisit" src="{{ site.url }}/assets/images/posts_images/govisit.png">U.S. News' "Stop Wasting Money on Rapidly Depreciating Gadgets"</a></li></ul>

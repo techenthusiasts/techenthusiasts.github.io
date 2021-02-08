@@ -16,6 +16,6 @@ permalink: /about/
 
 ### Our Web Address
 
-***[www.TechEnthusiasts.us](https://techenthusiasts.us)*** (Tech Enthusiasts "That's Us")  
+***[www.TechEnthusiasts.us](https://techenthusiasts.github.io)*** (Tech Enthusiasts "That's Us")  
 
 

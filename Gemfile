@@ -29,9 +29,10 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # For security fix 
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
 
 
 # Fix 
 gem "ffi", ">=1.11.1"
 gem "sassc", ">=2.2.1"
+gem "rexml", ">=3.2.5"

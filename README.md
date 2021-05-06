@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Tech Enthusiast Page - a Jekyll powered site
 
-You can use the [editor on GitHub](https://github.com/techenthusiasts/techenthusiasts.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page can be viewed here: [Tech Enthusiasts Blog][techenthusiast-blog]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Screenshot:
 
-### Markdown
+![Screenshot of the Blog](blog_screenshot.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Objective:
 
-- Bulleted
-- List
+This blog may contain some raw and unfiltered thoughts. I do try to  refine and present my ideas as succinct as I can, but forgive me if I  fail in doing so. The pages of this blog contain topics ranging from:
 
-1. Numbered
-2. List
+- Administration
 
-**Bold** and _Italic_ and `Code` text
+- Data Science
 
-[Link](url) and ![Image](src)
-```
+- Programming
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Computer Security
 
-### Jekyll Themes
+- Web Development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/techenthusiasts/techenthusiasts.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Personal/Opinions
 
-### Support or Contact
+  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Tools I used:
+
+This blog is written in Jekyll and is using the default Minima theme. I have overridden the main.css file to alter the theme.
+
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+## Other Links:
+
+[Tech Entjusiast Page][techenthusiast-page].
+[DMSX TECH][dmsx-tech]
+My [NostrA Blog][ nostra-blog ].
+My [Online Portfolio][ my-online-portfolio].
+My [Linkedin Profile.][ my-linkedin-profile]
+My [Twitter Page.][ my-twitter ]
+My [Github Page.][ my-github-page ]
+
+[dmsx-tech]: http://dmsx.tech/
+[techenthusiast-page]: https://techenthusiasts.github.io/
+[nostra-blog]: https://nostra.dmsx.tech/        "NostrA Blog"
+[my-online-portfolio]: https://portfolio.dmsx.tech/     "My Online Portfolio"
+[my-linkedin-profile]: https://www.linkedin.com/in/roylouisgarcia/
+[my-twitter]: https://twitter.com/roylouisgarcia/
+[my-github-page]: https://github.com/roylouisgarcia
+[jekyll-organization]: https://github.com/jekyll  

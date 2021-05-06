@@ -1,6 +1,6 @@
 ## Tech Enthusiast Page - a Jekyll powered site
 
-This page can be viewed here: [Tech Enthusiasts Blog][techenthusiast-blog]
+This page can be viewed here: [Tech Enthusiasts Blog][techenthusiast-page]
 
 ## Screenshots:
 
